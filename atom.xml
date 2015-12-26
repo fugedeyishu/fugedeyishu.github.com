@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Helen Zhang]]></title>
-  <link href="http://fugedeyishu.github.io/atom.xml" rel="self"/>
-  <link href="http://fugedeyishu.github.io/"/>
-  <updated>2015-12-26T23:23:05+08:00</updated>
-  <id>http://fugedeyishu.github.io/</id>
+  <link href="http://helenzhang.info/atom.xml" rel="self"/>
+  <link href="http://helenzhang.info/"/>
+  <updated>2015-12-26T23:31:01+08:00</updated>
+  <id>http://helenzhang.info/</id>
   <author>
     <name><![CDATA[Helen Zhang]]></name>
     
