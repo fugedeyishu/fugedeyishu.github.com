@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[Helen Zhang]]></title>
   <link href="http://fugedeyishu.github.io/atom.xml" rel="self"/>
   <link href="http://fugedeyishu.github.io/"/>
@@ -8,6 +9,15 @@
   <id>http://fugedeyishu.github.io/</id>
   <author>
     <name><![CDATA[Helen Zhang]]></name>
+=======
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://fugedeyishu.github.io/atom.xml" rel="self"/>
+  <link href="http://fugedeyishu.github.io/"/>
+  <updated>2015-12-26T22:46:15+08:00</updated>
+  <id>http://fugedeyishu.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+>>>>>>> 298d7e84e7eb4def84be2c2c70f24a899d14a80f
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
