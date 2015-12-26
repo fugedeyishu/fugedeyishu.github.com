@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Helen Zhang]]></title>
+  <link href="http://fugedeyishu.github.io/atom.xml" rel="self"/>
+  <link href="http://fugedeyishu.github.io/"/>
+  <updated>2015-12-26T23:23:05+08:00</updated>
+  <id>http://fugedeyishu.github.io/</id>
+  <author>
+    <name><![CDATA[Helen Zhang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
